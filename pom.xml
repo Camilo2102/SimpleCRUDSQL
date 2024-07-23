@@ -29,9 +29,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git://github.com/Camilo2102/WebGen-Commons</connection>
-        <developerConnection>scm:git:ssh://github.com/Camilo2102/WebGen-Commons</developerConnection>
-        <url>https://github.com/Camilo2102/WebGen-Commons</url>
+        <connection>scm:git:git://github.com/Camilo2102/SimpleCRUDSQL</connection>
+        <developerConnection>scm:git:ssh://github.com/Camilo2102/SimpleCRUDSQL</developerConnection>
+        <url>https://github.com/Camilo2102/SimpleCRUDSQL</url>
     </scm>
 
     <properties>
